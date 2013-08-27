@@ -4,10 +4,10 @@ Python
 ==============
 The repo includes lexer file, parser file, abstract syntax tree file and 8 test files for the Clite.
 
-Lexer
-Provide lexical analysis for clite
-input: characters
-output: tokens
+Lexer;
+Provide lexical analysis for clite;
+input: characters;
+output: tokens;
 
 Parser
 provide syntatic analysis for clite
